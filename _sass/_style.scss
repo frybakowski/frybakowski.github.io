@@ -233,7 +233,7 @@ header {
     line-height: 1;
     color: #ea6111;
     text-shadow: 0 0 1px;
-    
+    text-align: right;
 }
 
 // Disqus comments button
@@ -329,4 +329,15 @@ table {
 // Active page number in pagination
 .active {
     font-weight: 700;
+}
+
+
+.header-wrapper {
+    display: inline-block;
+    vertical-align: text-top;
+    padding: 5px;
+}
+
+.face-img {
+    height: 150x;
 }
