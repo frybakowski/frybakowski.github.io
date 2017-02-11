@@ -1,1 +1,1 @@
-My blog | https://frybakowski.github.io
+Personal blog | https://frybakowski.github.io
