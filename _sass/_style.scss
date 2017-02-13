@@ -353,6 +353,23 @@ table {
     max-width: 200px;
 }
 
+.contact-technologies-container a {
+    display: inline-block;
+    color: #636466;
+    font-size: 19px;
+    cursor: pointer;
+    background: #464446;
+    width: 34px !important;
+    height: 34px;
+    border-radius: 17px;
+    line-height: 34px;
+    text-align: center;
+}
+
+.contact-technologies-container i {
+     margin-left: 0;
+}
+
 .community-icons-container {
     display: inline-block;
     list-style-type: none;
