@@ -11,3 +11,7 @@ During the current career, I took part in several, big projects, where I owned a
 My domain are web technologies, mostly JavaScript, AngularJS, MeteorjJS, PolymerJS, Node,  jQuery, HTML5, CSS3, SCSS, Gulp, Bower, Bootstrap, MongoDB.
 
 <h3>Technologies:</h3>
+
+<div class="contact-technologies-container">
+  <img src="/images/js.png">
+</div>
