@@ -14,4 +14,6 @@ My domain are web technologies, mostly JavaScript, AngularJS, MeteorjJS, Polymer
 
 <div class="contact-technologies-container">
   <img src="/images/js.png">
+  <img src="/images/angular.png">
+  <img src="/images/meteor.png">
 </div>
