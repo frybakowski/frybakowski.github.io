@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Documentation
-description: Learn how to install and use this theme. This document will be updated on a regular basis upon adding new features or bug fixes5 
-img: image-10.jpg
+title: Real-time web application with MeteorJS
+description: Review of MeteorJS, full-stack JavaScript platform for building web and mobile application in real time, created with JavaScript.
+img: meteor.jpg
 color: 212121
-author: webjeda
+author: frybakowski
 ---
 
 * some text
