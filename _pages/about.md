@@ -4,13 +4,11 @@ layout: post
 permalink: /about/
 ---
 
-Karna is a Jekyll theme created with pinterest like pins. It is a freemium theme.
+Developer, follower of innovation, modern technologies, personal development and new challenges.
 
-For more themes visit - [**Webjeda Jekyll Themes**](https://blog.webjeda.com/jekyll-themes/){: target="_blank"}
+During the current career, I took part in several, big projects, where I owned a knowledge of software development process and methodology of projects managing based on Agile. 
 
-For Jekyll tutorials visit - [**Webjeda**](https://blog.webjeda.com/){: target="_blank"}
-
-Does the theme deserve a star?
+My domain are web technologies, mostly JavaScript, AngularJS, MeteorjJS, PolymerJS, Node,  jQuery, HTML5, CSS3, SCSS, Gulp, Bower, Bootstrap, MongoDB.
 
 <a class="github-button" href="https://github.com/sharu725/karna" data-style="mega" data-count-href="/sharu725/karna/stargazers" data-count-api="/repos/sharu725/karna#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/karna on GitHub">Star</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
