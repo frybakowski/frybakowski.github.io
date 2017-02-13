@@ -13,7 +13,7 @@ author: frybakowski
 
 # Real-time web application with MeteorJS
 
-	In wide, web technologies world, the most common and generally use technology for client-server communication actually is HTTP. This protocol, of course like eveything has advantages and disadvantages. One of weak points of HTTP protocol is lack of synchronization between client and server.
+In wide, web technologies world, the most common and generally use technology for client-server communication actually is HTTP. This protocol, of course like eveything has advantages and disadvantages. One of weak points of HTTP protocol is lack of synchronization between client and server.
 
 What can it means?
 
@@ -22,7 +22,7 @@ Generally, it means, that every changes made in application data base are not au
 
 # Real-time is cool.
 
-	Beneffits from synchonizing our web system in real-time, seems to be visible at a glance. We have possibility to create web systems and applictions more similar to native applicaion or even operation systems. To visualise it I will use example.
+Beneffits from synchonizing our web system in real-time, seems to be visible at a glance. We have possibility to create web systems and applictions more similar to native applicaion or even operation systems. To visualise it I will use example.
 
 How works todays operation systems?
 
@@ -37,7 +37,7 @@ Of course, as it happens in life, communication based on WebSockets technology h
 
 # MeteorJS as full-stack platform.
 
-	Let’s focus now on  MeteorJS’s architecture. Whole solution based on JavaScript language and it is comprehensive platform, allows developers creating applications from beginning to the end.
+Let’s focus now on  MeteorJS’s architecture. Whole solution based on JavaScript language and it is comprehensive platform, allows developers creating applications from beginning to the end.
 
 What it means for developers and whole process of software’s creating?
 
@@ -47,14 +47,15 @@ Huge advantage of MeteorJS is it’s simplicity (in positive mean) from develope
 
 
 
-# ack-end in MeteorJS.
+# Backend in MeteorJS.
 
-	Server side part of MeteorJS’s base on NodeJS technology. It supports also very nice and intuitive build system, which base on npm (Packages manager of NodeJS). It provides set of packages for MeteorJS called Atmosphere.js
+Server side part of MeteorJS’s base on NodeJS technology. It supports also very nice and intuitive build system, which base on npm (Packages manager of NodeJS). It provides set of packages for MeteorJS called Atmosphere.js
 
 
-# Front-end in MeteorJS.
+# Frontend in MeteorJS.
 
-	Client side part of MeteorJS provides us very wide set of front-end technologies. It supports technologies like Angular,  React or created specially for MeteorJS needs, templates system called Blaze.
+Client side part of MeteorJS provides us very wide set of front-end technologies. It supports technologies like Angular,  React or created specially for MeteorJS needs, templates system called Blaze.
 
 # Conclusion
-    MeteorJS is complex solution for web and mobile application (It support also Apache Cordova). Development is fast, because of fact using only one language on client and server. Communication based on WebSockets gives us real-time effect. This type of communication is specific and it should be used in specific situation, which requires it. Apart from this, I can definitely recommend this platform,  which can be confirmed by the fact of still growing count of applications and systems build with MeteorJS and big community around this solution.
+
+MeteorJS is complex solution for web and mobile application (It support also Apache Cordova). Development is fast, because of fact using only one language on client and server. Communication based on WebSockets gives us real-time effect. This type of communication is specific and it should be used in specific situation, which requires it. Apart from this, I can definitely recommend this platform,  which can be confirmed by the fact of still growing count of applications and systems build with MeteorJS and big community around this solution.
