@@ -16,4 +16,20 @@ My domain are web technologies, mostly JavaScript, AngularJS, MeteorjJS, Polymer
   <img src="/images/js.png">
   <img src="/images/angular.png">
   <img src="/images/meteor.png">
+  <img src="/images/polymer.png">
+  <img src="/images/node.png">
+  <img src="/images/npm.png">
+  <img src="/images/mocha.png">
+  <img src="/images/selenium.jpg">
+  <img src="/images/gulp.png">
+  <img src="/images/grunt.png">
+  <img src="/images/bower.png">
+  <img src="/images/jquery.png">
+  <img src="/images/blaze.png">
+  <img src="/images/bootstrap.png">
+  <img src="/images/html5.png">
+  <img src="/images/css3.png">
+  <img src="/images/sass.png">
+  <img src="/images/mongo.png">
+  <img src="/images/mysql.jpg">
 </div>
