@@ -30,7 +30,7 @@ Let’s imagine operation system in which we open two windows of file manager. B
 
 This approach is user-friendly, but not only. It’s also very usefull for business logic, which in some cases is even necessary. For example some chats, web games or systems which observe some different types of states requires real-time approach.
 
-
+<img src="/images/real-time.png" />
 
 Of course, as it happens in life, communication based on WebSockets technology has also “dark side”.  For example it’s more limits in case of counts of users, which can use our application / system than in communication based on HTTP. Decision, which solution we should use in case of our product, base on it’s destiny. Despite all cool features, which gives us real-time communication, in some cases better approach is communication based on HTTP. However, as I mentioned, there are some situations where real-time communication is required.
 
