@@ -5,7 +5,7 @@ permalink: /private-policy/
 ---
 
 This page informs you of our policies regarding the collection,
-use and disclosure of Personal Information we receive from users of DinoZoo Tycoon game.
+use and disclosure of Personal Information we receive from users of DinoZoo Tycoon, Rat Race: The Factory, Cube Tunnel games.
 
 Information Collection And Use:
 
